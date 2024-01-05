@@ -1,8 +1,9 @@
 ### Olá! Eu sou Alícia 👩🏻‍💻
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-alexia-554a2a1b0/)
 
-### Tecnologias que utilizo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicia-alexia&hide_progress=true)
+![Alícia GitHub stats](https://github-readme-stats.vercel.app/api?username=alicia-alexia&show_icons=true&theme=radical)
+
+### Tecnologias que uso no meu dia
 <div style="display: inline_block"></br>
 <img align="center" alt="python "src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="javascript "src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -18,3 +19,4 @@
 </div><br/>
 
 Transformando linhas de código em soluções inovadoras; apaixonada por resolver desafios tecnológicos e impulsionar a excelência no mundo digital.
+
