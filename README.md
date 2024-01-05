@@ -2,7 +2,8 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif"width="200"/>
 </div></br>
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-alexia-554a2a1b0/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-alexia-554a2a1b0/)
 
 ![Alícia GitHub stats](https://github-readme-stats.vercel.app/api?username=alicia-alexia&show_icons=true&theme=radical)
 
