@@ -1,30 +1,54 @@
-<div  align="center">
- <h3>Olá! Eu sou Alícia 👩🏻‍💻<h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Olá,%20sou%20a%20Alicia%20Alexia&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js%20|%20Python&descAlignY=55&descAlign=50"/>
 </div>
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif"width="200"/>
-</div></br>
-<div  align="center">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alicia-alexia-554a2a1b0/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+
+### 👋 Sobre Mim
+
+Sou uma **Desenvolvedora Full Stack** focada em criar soluções completas, unindo a performance do **Node.js/Python** no back-end com a interatividade do **React** no front-end.
+
+- 🔭 Atualmente desenvolvendo aplicações web escaláveis com **TypeScript**.
+- 💼 Buscando oportunidades como **Desenvolvedora [Júnior/Pleno]**.
+- 🚀 Meu foco é escrever código limpo, testável e eficiente.
+- ⚡ **Curiosidade:** Quando não estou codando, estou praticando esportes! Sou apaixonada por **vôlei** 🏐.
+
+---
+
+### 🛠️ Minhas Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-alexia-554a2a1b0/)
-</div></br>
+  <br>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</div>
 
-![Alícia GitHub stats](https://github-readme-stats.vercel.app/api?username=alicia-alexia&show_icons=true&theme=radical)
+---
 
-### Tecnologias que uso no meu dia
-<div style="display: inline_block"></br>
-<img align="center" alt="python "src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="javascript "src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="typescript "src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="node.js "src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="center" alt="java "src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit"/>
-<img align="center" alt="spring "src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whit"/>
-<img align="center" alt="go "src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img align="center" alt="kotlin "src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img align="center" alt="postgresql "src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img align="center" alt="mongodb "src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whitehttps://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### 📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alicia-Alexia&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alicia-Alexia&layout=compact&theme=dracula"/>
+  </a>
+</div>
+---
 
-</div><br/>
+### 🏆 Projetos Full Stack & Recentes
 
-Transformando linhas de código em soluções inovadoras; apaixonada por resolver desafios tecnológicos e impulsionar a excelência no mundo digital.
+| Projeto | Tecnologias | Descrição | Link |
+| :--- | :--- | :--- | :--- |
+| **Daily Diet (Full Stack)**<br>_Aplicação completa para controle de dieta diária._ | `React` `TypeScript` `Node.js` `Fastify` | **Front:** Vite, Styled Components, Radix UI, Zod, React Hook Form.<br>**Back:** Fastify, Knex, SQLite/PG.<br>_Destaque: Validação robusta e Acessibilidade._ | [https://daily-diet-web-coral.vercel.app/login]
+| **Pokedex Interativa** | `React` `TypeScript` `API` | Aplicação web que consome a PokéAPI, com coloração dinâmica baseada no tipo do Pokémon. | [https://pokedex-frontend-4atfg7qsi-alicia-alexias-projects.vercel.app]
 
+---
